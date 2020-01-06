@@ -8,7 +8,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
     public static void main(String[] args) {
 
 
-        lengthOfLongestSubstring("sadasdasd");
+        lengthOfLongestSubstring("a b c a b c b b");
 
     }
 
@@ -37,6 +37,7 @@ public class LongestSubstringWithoutRepeatingCharacters {
 
 
         }
+
         System.out.println(res);
         return res;
 
