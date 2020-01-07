@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39ab0733-e436-4caf-a292-b0ea3aaf610c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/TestArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +57,7 @@
       <recent name="$PROJECT_DIR$/lib " />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AddOneToHandred">
+  <component name="RunManager" selected="Application.TestArray">
     <configuration name="AddOneToHandred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.AddOneToHandred" />
       <module name="Leetcode" />
@@ -76,18 +77,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Arbitrage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="edu.princeton.cs.algs4.Arbitrage" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="edu.princeton.cs.algs4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,13 +110,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.TestArray" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestArray" />
         <item itemvalue="Application.AddOneToHandred" />
         <item itemvalue="Application.MedianofTwoSortedArrays" />
         <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
         <item itemvalue="Application.AddTwoNumbers" />
-        <item itemvalue="Application.Arbitrage" />
       </list>
     </recent_temporary>
   </component>
@@ -154,6 +156,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578309903990</updated>
       <workItem from="1578309908630" duration="8316000" />
+      <workItem from="1578398645302" duration="484000" />
     </task>
     <task id="LOCAL-00001" summary="java算法实现">
       <created>1578312157991</created>
@@ -267,7 +270,28 @@
       <option name="project" value="LOCAL" />
       <updated>1578318242957</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="java算法实现">
+      <created>1578398656963</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1578398656963</updated>
+    </task>
+    <task id="LOCAL-00018" summary="java算法实现">
+      <created>1578398805251</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1578398805251</updated>
+    </task>
+    <task id="LOCAL-00019" summary="java算法实现">
+      <created>1578398879071</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1578398879071</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -282,10 +306,10 @@
       <screen x="0" y="27" width="1920" height="987" />
     </state>
     <state x="766" y="173" width="681" height="750" key="#Arbitrage/0.27.1920.987@0.27.1920.987" timestamp="1578314204232" />
-    <state x="740" y="160" width="867" height="842" key="CommitChangelistDialog2" timestamp="1578398805176">
+    <state x="740" y="160" width="867" height="842" key="CommitChangelistDialog2" timestamp="1578398879003">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
-    <state x="740" y="160" width="867" height="842" key="CommitChangelistDialog2/0.27.1920.987@0.27.1920.987" timestamp="1578398805176" />
+    <state x="740" y="160" width="867" height="842" key="CommitChangelistDialog2/0.27.1920.987@0.27.1920.987" timestamp="1578398879003" />
     <state x="1217" y="322" width="498" height="532" key="FileChooserDialogImpl" timestamp="1578314286801">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
@@ -294,30 +318,30 @@
       <screen x="0" y="27" width="1920" height="987" />
     </state>
     <state x="1231" y="664" key="Github.ShareDialog/0.27.1920.987@0.27.1920.987" timestamp="1578312566364" />
-    <state width="1038" height="197" key="GridCell.Tab.0.bottom" timestamp="1578398869567">
+    <state width="1038" height="197" key="GridCell.Tab.0.bottom" timestamp="1578399131009">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
-    <state width="1038" height="197" key="GridCell.Tab.0.bottom/0.27.1920.987@0.27.1920.987" timestamp="1578398869567" />
-    <state width="1038" height="197" key="GridCell.Tab.0.center" timestamp="1578398869567">
+    <state width="1038" height="197" key="GridCell.Tab.0.bottom/0.27.1920.987@0.27.1920.987" timestamp="1578399131009" />
+    <state width="1038" height="197" key="GridCell.Tab.0.center" timestamp="1578399131008">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
-    <state width="1038" height="197" key="GridCell.Tab.0.center/0.27.1920.987@0.27.1920.987" timestamp="1578398869567" />
-    <state width="1038" height="197" key="GridCell.Tab.0.left" timestamp="1578398869567">
+    <state width="1038" height="197" key="GridCell.Tab.0.center/0.27.1920.987@0.27.1920.987" timestamp="1578399131008" />
+    <state width="1038" height="197" key="GridCell.Tab.0.left" timestamp="1578399131008">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
-    <state width="1038" height="197" key="GridCell.Tab.0.left/0.27.1920.987@0.27.1920.987" timestamp="1578398869567" />
-    <state width="1038" height="197" key="GridCell.Tab.0.right" timestamp="1578398869567">
+    <state width="1038" height="197" key="GridCell.Tab.0.left/0.27.1920.987@0.27.1920.987" timestamp="1578399131008" />
+    <state width="1038" height="197" key="GridCell.Tab.0.right" timestamp="1578399131008">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
-    <state width="1038" height="197" key="GridCell.Tab.0.right/0.27.1920.987@0.27.1920.987" timestamp="1578398869567" />
+    <state width="1038" height="197" key="GridCell.Tab.0.right/0.27.1920.987@0.27.1920.987" timestamp="1578399131008" />
     <state x="886" y="162" width="1024" height="852" key="SettingsEditor" timestamp="1578315291399">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
     <state x="886" y="162" width="1024" height="852" key="SettingsEditor/0.27.1920.987@0.27.1920.987" timestamp="1578315291399" />
-    <state x="774" y="312" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1578398811530">
+    <state x="774" y="312" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1578398884414">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
-    <state x="774" y="312" width="800" height="538" key="Vcs.Push.Dialog.v2/0.27.1920.987@0.27.1920.987" timestamp="1578398811530" />
+    <state x="774" y="312" width="800" height="538" key="Vcs.Push.Dialog.v2/0.27.1920.987@0.27.1920.987" timestamp="1578398884414" />
     <state x="942" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1578398644797">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
