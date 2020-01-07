@@ -56,7 +56,20 @@
       <recent name="$PROJECT_DIR$/lib " />
     </key>
   </component>
-  <component name="RunManager" selected="Application.MedianofTwoSortedArrays">
+  <component name="RunManager" selected="Application.AddOneToHandred">
+    <configuration name="AddOneToHandred" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.AddOneToHandred" />
+      <module name="Leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AddTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.AddTwoNumbers" />
       <module name="Leetcode" />
@@ -108,26 +121,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.TwoSum" />
-      <module name="Leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AddOneToHandred" />
         <item itemvalue="Application.MedianofTwoSortedArrays" />
         <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
         <item itemvalue="Application.AddTwoNumbers" />
         <item itemvalue="Application.Arbitrage" />
-        <item itemvalue="Application.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -282,10 +282,10 @@
       <screen x="0" y="27" width="1920" height="987" />
     </state>
     <state x="766" y="173" width="681" height="750" key="#Arbitrage/0.27.1920.987@0.27.1920.987" timestamp="1578314204232" />
-    <state x="740" y="160" width="867" height="842" key="CommitChangelistDialog2" timestamp="1578318242897">
+    <state x="740" y="160" width="867" height="842" key="CommitChangelistDialog2" timestamp="1578398656657">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
-    <state x="740" y="160" width="867" height="842" key="CommitChangelistDialog2/0.27.1920.987@0.27.1920.987" timestamp="1578318242897" />
+    <state x="740" y="160" width="867" height="842" key="CommitChangelistDialog2/0.27.1920.987@0.27.1920.987" timestamp="1578398656657" />
     <state x="1217" y="322" width="498" height="532" key="FileChooserDialogImpl" timestamp="1578314286801">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
@@ -314,10 +314,10 @@
       <screen x="0" y="27" width="1920" height="987" />
     </state>
     <state x="886" y="162" width="1024" height="852" key="SettingsEditor/0.27.1920.987@0.27.1920.987" timestamp="1578315291399" />
-    <state x="774" y="312" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1578318249175">
+    <state x="774" y="312" width="800" height="538" key="Vcs.Push.Dialog.v2" timestamp="1578398663484">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
-    <state x="774" y="312" width="800" height="538" key="Vcs.Push.Dialog.v2/0.27.1920.987@0.27.1920.987" timestamp="1578318249175" />
+    <state x="774" y="312" width="800" height="538" key="Vcs.Push.Dialog.v2/0.27.1920.987@0.27.1920.987" timestamp="1578398663484" />
     <state x="942" y="373" key="com.intellij.ide.util.TipDialog" timestamp="1578398644797">
       <screen x="0" y="27" width="1920" height="987" />
     </state>
