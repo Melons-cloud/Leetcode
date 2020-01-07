@@ -12,6 +12,9 @@ public class TestArray {
         //访问元素
         int element0 = arr1[0];
         System.out.println("element0:"+element0);
+        //赋值
+        arr1[0]=99;
 
+        System.out.println("element0:"+arr1[0]);
     }
 }
